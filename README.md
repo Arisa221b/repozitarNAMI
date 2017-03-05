@@ -1,0 +1,2 @@
+# repozitarNAMI
+Popis pro NAMI
